@@ -7,7 +7,7 @@ with some associated metadata such as user and book IDs, and of course the numer
 rating as a number between 1 and 5 inclusive. Our project aims to see if it is possible to
 reasonably and accurately make these predictions utilizing a neural network. 
 
-Milestone 1: https://www.overleaf.com/project/670c719086bba2e4db883a08
+Milestone 1: https://files.campuswire.com/7d5dc920-2dc5-444d-a8ab-c63f835fb5f7/5281cd94-27c1-40e8-b2a3-992dccc23c0d/Numerical%20Rating%20Prediction%20from%20Goodreads%20Text%20Reviews.pdf
 
 # Contents
 
