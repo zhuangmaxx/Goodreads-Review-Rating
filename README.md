@@ -10,4 +10,5 @@ reasonably and accurately make these predictions utilizing a neural network.
 # Contents
 
 # References
+Milestone 1: https://www.overleaf.com/project/670c719086bba2e4db883a08
 https://github.com/AGiannoutsos/Twitter-Sentiment-Analysis-with-LSTMs-ELMo/tree/main 
