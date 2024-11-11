@@ -16,6 +16,8 @@ https://github.com/AGiannoutsos/Twitter-Sentiment-Analysis-with-LSTMs-ELMo/tree/
 
 https://www.kaggle.com/code/athoul01/predicting-yelp-ratings-from-review-text
 
+https://machinelearningmastery.com/combine-oversampling-and-undersampling-for-imbalanced-classification/#:~:text=Manually%20Combine%20SMOTE%20and%20Random%20Undersampling,-We%20are%20not&text=The%20authors%20of%20the%20technique,better%20than%20plain%20under%2Dsampling.
+
 # Improvements
 For this milestone work on preprocessing and embeddings 
 
