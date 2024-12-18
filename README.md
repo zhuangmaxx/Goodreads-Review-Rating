@@ -20,3 +20,7 @@ EDA.ipynb - The initial exploratory data analysis.
 sample_experiments_Word2Vec.ipynb - Some sample experiments with Word2Vec purely for example purposes. Not very cleaned. 
 
 # Instructions
+Please download the 
+
+# Framework
+
