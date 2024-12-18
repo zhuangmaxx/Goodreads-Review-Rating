@@ -37,4 +37,13 @@ For running any of the files beside LSTM.ipynb, please download the goodreads_re
 
 # Results
 
+<img width="431" alt="image" src="https://github.com/user-attachments/assets/39ea7c47-9388-4317-b0ba-f21478996ad3" />
+
 <img width="413" alt="image" src="https://github.com/user-attachments/assets/5c81d48b-3d6e-4e82-82a0-5e2ed5c9b66e" />
+
+# References
+
+[1] Joshua Phuong Le. (2022, August 17). Rating Prediction from Review Text with
+Regularization — Linear Regression vs Logistic Regression. Medium; MITB For All. https://medium.com/mitb-for-all/ rating-prediction-from-review-text-with-regularization-linear-regression-vs-logistic-regression-df0181fe9c0
+[2] Asterios Bampakis et al. (2020). Products review rating prediction from users’ text reviews. GitHub. https://github.com/stergiosbamp/nlp-review-rating-prediction/ blob/main/paper/Products-review-rating-prediction-from-users-text-reviews.pdf
+[3] Ahmed, B. H., & Ghabayen, A. S. (2020). Review rating prediction framework using deep learning. Journal of Ambient Intelligence and Humanized Computing, 13(7), 3423–3432. https://doi.org/10.1007/s12652-020-01807-4
