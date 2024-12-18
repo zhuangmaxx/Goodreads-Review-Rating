@@ -30,3 +30,11 @@ For running any of the files beside LSTM.ipynb, please download the goodreads_re
 
 # Framework
 
+<img width="371" alt="image" src="https://github.com/user-attachments/assets/16ed096e-11b0-490f-8ff6-76e6c9961816" />
+
+<img width="351" alt="image" src="https://github.com/user-attachments/assets/40a93d55-8f3d-43d4-824a-9a03dc4aa457" />
+
+
+# Results
+
+<img width="413" alt="image" src="https://github.com/user-attachments/assets/5c81d48b-3d6e-4e82-82a0-5e2ed5c9b66e" />
